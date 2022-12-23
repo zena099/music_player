@@ -1,0 +1,10 @@
+section {
+  width: 100vw;
+}
+section .list {
+  padding: 20px;
+  overflow: hidden;
+}
+section .list li {
+  float: left;
+}
